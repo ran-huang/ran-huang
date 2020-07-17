@@ -2,7 +2,7 @@
 
 I'm Ran! Glad you found my profile 🥳
 
-Here's a simple version of self-introduction:
+Here's a simple version of who I am:
 
 - 🔭 I’m currently working on bilingual technical docs for TiDB and related projects.
 
