@@ -13,6 +13,7 @@ Here's a simple version of self-introduction:
 
   - Also, if you happen to be learning Japanese too, **pleeeeezzzz** do contact me so we can study together 🌚
   
-- 📫 How to reach me: either by email (<huangran@pingcap.com>) or just file an issue at this repo.
+- 📫 Want a small talk? Just file an issue at this repo.
+  - Or <a href="mailto:huangran@pingcap.com">email me</a>!
 - 😄 Pronouns: 💃
 - じゃ、よろしくお願いします。
