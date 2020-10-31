@@ -1,31 +1,34 @@
 # Hi there 👋
 
 <div align="center">
-  <p><strong>This is Ran. <br/>I'm a technical writer at <a href="https://pingcap.com/">PingCAP</a>.</strong></p>
-
-  <div>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=vue" />
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ran-huang&langs-count=4&theme=vue&layout=compact" />
-    <br />
-    <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi&theme=vue" />
-  </div>
+  <p>Welcome to my profile.</>
+  <p>I am Ran, a technical writer at <a href="https://pingcap.com/">PingCAP</a>.</p>
 </div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.ran-huang.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=vue" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Most Used Languages" src="https://github-readme-stats.ran-huang.vercel.app/api/top-langs/?username=ran-huang&langs-count=4&theme=vue&layout=compact" />
+</a>
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Wakatime Stats" src="https://github-readme-stats.ran-huang.vercel.app/api/wakatime/?username=yellowgomi&theme=vue" />
+</a>
 
 <hr>
 
 ### 📝 I’m currently working on
 
-- Bilingual technical docs for TiDB and related projects.
-
-    Check out 👉[TiDB Operator Documentation](https://github.com/pingcap/docs-tidb-operator).
-
+- Bilingual technical docs for TiDB and related projects. Check out 👉[TiDB Operator Documentation](https://github.com/pingcap/docs-tidb-operator).
 - Blog transcreation.
 
 ### 🔭 I'm also learning
 
-- *Technical communication*
-- *Content strategy*
+- Technical communication
+- Content strategy
 - Some scripting languages
+- How to make a better cup of coffee☕️
 
 ### 📢 Other facts about me 
 
