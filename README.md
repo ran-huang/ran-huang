@@ -29,7 +29,7 @@
 
 ### 📢 Other facts about me 
 
-- I speak Chinese🇨🇳, English🇬🇧 and Japanese🇯🇵. 日本語勉強中でーす。
+- I speak Chinese🇨🇳, English🇬🇧 and Japanese🇯🇵. 日本語勉強中でーす。 
 - ❤️ Anime and comics.
 - Though not good at it, I enjoy doodling🎨. Always draw my own avatars!
 
