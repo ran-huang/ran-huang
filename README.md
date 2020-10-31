@@ -5,34 +5,24 @@
   <p>I am Ran, a technical writer at <a href="https://pingcap.com/">PingCAP</a>.</p>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" alt="Wakatime Stats" src="https://github-readme-stats.ran-huang.vercel.app/api/wakatime/?username=yellowgomi&theme=dracula&v=2" />
-</a>
+---
 
-<details>
-<summary><strong> 📝 I’m currently working on</strong></summary>
+### 📝 I’m currently working on
 
 - Bilingual technical docs for TiDB and related projects. Check out 👉[TiDB Operator Documentation](https://github.com/pingcap/docs-tidb-operator).
 - Blog transcreation.
-</details>
 
-
-
-<details>
-<summary><strong> 🔭 I'm also learning</strong></summary>
+### 🔭 I'm also learning
 
 - Technical communication
 - Front-end basics
 - How to make a better cup of coffee☕️
-</details>
 
-<details>
-<summary><strong> 📢 Other facts about me</strong></summary>
+### 📢 Other facts about me
 
 - I speak Chinese🇨🇳, English🇬🇧 and Japanese🇯🇵. 日本語勉強中でーす。
-- ❤️ Anime and comics.
-- Though not good at it, I enjoy doodling🎨. Always draw my own avatars!
-</details>
+- Devoted to anime and comics.
+- Though not good at it, I enjoy doodling🎨. Draw my own avatars from time to time!
 
 <!--
 <div align="center">
@@ -44,3 +34,9 @@
   </a>
 </div>
 -->
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Wakatime Stats" src="https://github-readme-stats.ran-huang.vercel.app/api/wakatime/?username=yellowgomi&theme=dracula&v=2" />
+  </a>
+</div>
