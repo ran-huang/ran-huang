@@ -1,8 +1,8 @@
-<h1 align="center" >Hi there 👋 </h1>
-<hr>
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=ran-huang.ran-huang" alt="visitor"></p>
+# Hi there 👋
+<img src="https://visitor-badge.glitch.me/badge?page_id=ran-huang.ran-huang" alt="visitor badge">
 
-💬 This is Ran.
+This is Ran.
+I'm a technical writer at [PingCAP](https://pingcap.com/).
 
 ### 📝 I’m currently working on
 
@@ -12,17 +12,18 @@
 
 - Blog transcreation.
 
-### 🔭 I'm learning
+### 🔭 I'm also learning
 
 - *Technical communication*
 - *Content strategy*
 - Some scripting languages
 
-### 📢 Apart from the above, I 
+### 📢 Other facts about me 
 
-- Speak Chinese🇨🇳, English🇬🇧 and Japanese🇯🇵.
-- Love anime and comics🎏.
-- Sometimes doodle🎨.
+<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi">
+
+- I speak Chinese🇨🇳, English🇬🇧 and Japanese🇯🇵. 日本語勉強中でーす。
+- ❤️ Anime and comics.
+- Though not good at it, I enjoy doodling🎨. Always draw my own avatars!
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=buefy)-->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi)
