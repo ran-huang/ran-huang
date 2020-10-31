@@ -4,10 +4,10 @@
   <p><strong>This is Ran. <br/>I'm a technical writer at <a href="https://pingcap.com/">PingCAP</a>.</strong></p>
 
   <div>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=tokyonight" />
-    <img alt="Most Used Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=ran-huang&langs-count=4&cache_seconds=1800&theme=tokyonight#layout=compact" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=vue" />
+    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ran-huang&langs-count=4&theme=vue&layout=compact" />
     <br />
-    <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi&theme=tokyonight" />
+    <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi&theme=vue" />
   </div>
 </div>
 
