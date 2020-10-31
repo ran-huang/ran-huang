@@ -1,15 +1,17 @@
 # Hi there 👋
+
 <div align="center">
-<p>This is Ran. <br/>A technical writer at [PingCAP](https://pingcap.com/).</p>
+  <p><strong>This is Ran. <br/>I'm a technical writer at <a href="https://pingcap.com/">PingCAP</a>.</strong></p>
 
   <div>
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=tokyonight" />
-    <img alt="Most Used Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=ran-huang&langs-count=4&theme=tokyonight" />
+    <img alt="Most Used Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=ran-huang&langs-count=4&cache_seconds=1800&theme=tokyonight#layout=compact" />
     <br />
     <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi&theme=tokyonight" />
-    </div>
-
+  </div>
 </div>
+
+<hr>
 
 ### 📝 I’m currently working on
 
