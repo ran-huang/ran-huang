@@ -1,10 +1,15 @@
 # Hi there 👋
-<img src="https://visitor-badge.glitch.me/badge?page_id=ran-huang.ran-huang" alt="visitor badge">
+<div align="center">
+<p>This is Ran. <br/>A technical writer at [PingCAP](https://pingcap.com/).</p>
 
-<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi">
+  <div>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=tokyonight" />
+    <img alt="Most Used Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=ran-huang&langs-count=4&theme=tokyonight" />
+    <br />
+    <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi&theme=tokyonight" />
+    </div>
 
-This is Ran.
-I'm a technical writer at [PingCAP](https://pingcap.com/).
+</div>
 
 ### 📝 I’m currently working on
 
@@ -26,4 +31,4 @@ I'm a technical writer at [PingCAP](https://pingcap.com/).
 - ❤️ Anime and comics.
 - Though not good at it, I enjoy doodling🎨. Always draw my own avatars!
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=buefy)-->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ran-huang.ran-huang)
