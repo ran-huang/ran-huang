@@ -1,19 +1,19 @@
 # Hi there 👋
 
 <div align="center">
-  <p>Welcome to my profile.</>
+  <p>Welcome to my profile.</p>
   <p>I am Ran, a technical writer at <a href="https://pingcap.com/">PingCAP</a>.</p>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.ran-huang.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=vue" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.ran-huang.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Most Used Languages" src="https://github-readme-stats.ran-huang.vercel.app/api/top-langs/?username=ran-huang&langs-count=4&theme=vue&layout=compact" />
+    <img align="center" alt="Most Used Languages" src="https://github-readme-stats.ran-huang.vercel.app/api/top-langs/?username=ran-huang&langs-count=4&theme=dracula&layout=compact" />
 </a>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Wakatime Stats" src="https://github-readme-stats.ran-huang.vercel.app/api/wakatime/?username=yellowgomi&theme=vue" />
+    <img align="center" alt="Wakatime Stats" src="https://github-readme-stats.ran-huang.vercel.app/api/wakatime/?username=yellowgomi&theme=dracula&v=2" />
 </a>
 
 <hr>
