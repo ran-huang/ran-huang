@@ -1,25 +1,6 @@
-<style>
-    .stats_table {
-        display:table;
-    }
-
-    .stats_row {
-        display: table-row;
-    }
-
-    #github_stats {
-        display: table-cell;
-        width: 50%;
-        margin-right: 20px;
-    }
-
-    #wakatime {
-        display: table-cell;
-        width: 50%;
-    }
-</style>
-
-## Hi there 👋
+<h1 align="center" >Hi there 👋 </h1>
+<hr>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=ran-huang.ran-huang" alt="visitor"></p>
 
 💬 This is Ran.
 
@@ -31,25 +12,17 @@
 
 - Blog transcreation.
 
-### 🔭 I'm also learning
+### 🔭 I'm learning
 
 - *Technical communication*
 - *Content strategy*
 - Some scripting languages
 
-### 📢 Apart from work
+### 📢 Apart from the above, I 
 
-- I speak Chinese🇨🇳, English🇬🇧 and Japanese🇯🇵.
-- Love anime and comics🎏
-- Doodle🎨
+- Speak Chinese🇨🇳, English🇬🇧 and Japanese🇯🇵.
+- Love anime and comics🎏.
+- Sometimes doodle🎨.
 
-<div class="stats_table">
-    <div class="states_row">
-        <div id="github_stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=buefy">
-        </div>
-        <div id="wakatime">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi">
-        </div>
-    </div>
-</div>
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=buefy)-->
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi)
