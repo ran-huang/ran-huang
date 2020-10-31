@@ -8,6 +8,6 @@
 - 📢 I speak Chinese and English. 日本語もちょっと分かる。
 - 👻 Anime and comic lover
 
-![Ran's github stats](https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars&theme=buefy)
+![Ran's github stats](https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&count_private=true&hide=stars,issues&theme=buefy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ran-huang&langs_count=4&layout=compact)
+![Ran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi)
