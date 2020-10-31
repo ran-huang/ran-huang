@@ -1,6 +1,8 @@
 # Hi there 👋
 <img src="https://visitor-badge.glitch.me/badge?page_id=ran-huang.ran-huang" alt="visitor badge">
 
+<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi">
+
 This is Ran.
 I'm a technical writer at [PingCAP](https://pingcap.com/).
 
@@ -19,8 +21,6 @@ I'm a technical writer at [PingCAP](https://pingcap.com/).
 - Some scripting languages
 
 ### 📢 Other facts about me 
-
-<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi">
 
 - I speak Chinese🇨🇳, English🇬🇧 and Japanese🇯🇵. 日本語勉強中でーす。
 - ❤️ Anime and comics.
