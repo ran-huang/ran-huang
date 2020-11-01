@@ -5,7 +5,7 @@
   <p>I am Ran, a technical writer at <a href="https://pingcap.com/">PingCAP</a>.</p>
  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Wakatime Stats" src="https://github-readme-stats.ran-huang.vercel.app/api/wakatime/?username=yellowgomi&theme=dracula&v=2" />
+    <img alt="Wakatime Stats" src="https://github-readme-stats.ran-huang.vercel.app/api/wakatime/?username=yellowgomi&theme=dracula&custom_title=My%20Weekly%20Stats&v=2" />
   </a>
 </div>
 
