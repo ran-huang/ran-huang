@@ -1,8 +1,12 @@
 # Hi there 👋
 
 <div align="center">
-  <p>Welcome to my profile. <img src="https://visitor-badge.glitch.me/badge?page_id=ran-huang.ran-huang" alt="visitor badge"></p>
+  <p>Welcome to my profile. <a href="https://github.com/jwenjian/visitor-badge"><img src="https://visitor-badge.glitch.me/badge?page_id=ran-huang.ran-huang" alt="visitor badge"></a></p>
   <p>I am Ran, a technical writer at <a href="https://pingcap.com/">PingCAP</a>.</p>
+ 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Wakatime Stats" src="https://github-readme-stats.ran-huang.vercel.app/api/wakatime/?username=yellowgomi&theme=dracula&v=2" />
+  </a>
 </div>
 
 ---
@@ -34,9 +38,3 @@
   </a>
 </div>
 -->
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Wakatime Stats" src="https://github-readme-stats.ran-huang.vercel.app/api/wakatime/?username=yellowgomi&theme=dracula&v=2" />
-  </a>
-</div>
