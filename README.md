@@ -16,11 +16,11 @@
 - Bilingual technical docs for TiDB and related projects. Check out 👉[TiDB Operator Documentation](https://github.com/pingcap/docs-tidb-operator).
 - Blog transcreation.
 
-### 🔭 I'm also learning
+### 🔭 I'm also learning about
 
 - Technical communication
 - Front-end basics
-- How to make a better cup of coffee☕️
+- Creating an English-Japanese term base! (See [my project](https://github.com/ran-huang/en-ja-terms-for-cs))
 
 ### 📢 Other facts about me
 
