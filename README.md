@@ -1,13 +1,8 @@
 # Hi there 👋
 
-<div align="center">
-  <p>Welcome to my profile. <a href="https://github.com/jwenjian/visitor-badge"><img src="https://visitor-badge.glitch.me/badge?page_id=ran-huang.ran-huang" alt="visitor badge"></a></p>
-  <p>I am Ran, a technical writer at <a href="https://pingcap.com/">PingCAP</a>.</p>
+I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Wakatime Stats" src="https://github-readme-stats.ran-huang.vercel.app/api/wakatime/?username=yellowgomi&theme=dracula&layout=compact&custom_title=My%20Weekly%20Stats&v=2" />
-  </a>
-</div>
+[![Ran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
