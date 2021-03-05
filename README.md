@@ -15,7 +15,7 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
 - Content strategy.
 - Illustrating and 3D animation.
-- Japanese. I'm creating an [English-Japanese term base](https://github.com/ran-huang/en-ja-terms-for-cs)
+- Japanese. I'm creating an [English-Japanese term base](https://github.com/ran-huang/en-ja-terms-for-cs) for computer science.
 
 <!--
 <div align="center">
