@@ -9,19 +9,13 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 ### 📝 I’m currently working on
 
 - Bilingual technical docs for TiDB and related projects. Check out 👉[TiDB Operator Documentation](https://github.com/pingcap/docs-tidb-operator).
-- Blog transcreation.
+- Blog transcreation. My recent post 👉[*How We Use a MySQL Alternative to Avoid Sharding and Provide Strong Consistency*](https://pingcap.com/case-studies/how-we-use-a-mysql-alternative-to-avoid-sharding-and-provide-strong-consistency).
 
-### 🔭 I'm also learning about
+### 🔭 I'm also learning 
 
-- Technical communication
-- Front-end basics
-- Creating an English-Japanese term base! (See [my project](https://github.com/ran-huang/en-ja-terms-for-cs))
-
-### 📢 Other facts about me
-
-- I speak Chinese🇨🇳, English🇬🇧 and Japanese🇯🇵. 日本語勉強中でーす。
-- Devoted to anime and comics.
-- Though not good at it, I enjoy doodling🎨. Draw my own avatars from time to time!
+- Content strategy.
+- Illustrating and 3D animation.
+- Japanese. I'm creating an [English-Japanese term base](https://github.com/ran-huang/en-ja-terms-for-cs)
 
 <!--
 <div align="center">
