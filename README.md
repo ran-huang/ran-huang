@@ -15,7 +15,7 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
 - Content strategy.
 - Illustrating and 3D animation.
-- Japanese. I'm creating an [English-Japanese term base](https://github.com/ran-huang/en-ja-terms-for-cs) for computer science.
+- Japanese. A recent translation 👉[*PayPayがAuroraからTiDBに移行したの件*](https://ran-huang.github.io/2021/03/10/paypay-case-study/).
 
 <!--
 <div align="center">
