@@ -2,10 +2,6 @@
 
 I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
-[![Ran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📝 I’m currently working on
 
 - Bilingual technical docs for TiDB and related projects. Check out 👉[TiDB Operator Documentation](https://github.com/pingcap/docs-tidb-operator).
@@ -16,6 +12,9 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 - Content marketing.
 - Japanese. A recent translation 👉[*PayPayがAuroraからTiDBに移行したの件*](https://ran-huang.github.io/2021/03/10/paypay-case-study/).
 - Illustrating and 3D animation.
+
+<img src="https://github-readme-stats.vercel.app/api?username=ran-huang&show_icons=true&hide=stars"></img>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi&layout=compact&langs_count=4"></img>
 
 <!--
 <div align="center">
