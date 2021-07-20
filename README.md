@@ -6,14 +6,14 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
 - Blog transcreation. My recent post 👉[*Chaos Mesh Remake: One Step Closer toward Chaos as a Service*](https://pingcap.com/blog/chaos-mesh-remake-one-step-closer-toward-chaos-as-a-service).
 - Content marketing.
-- Japanese. よろしくお願い！ 
 
 ### 🤠 I also love
 
+- Japanese. よろしくお願い！ 
 - 🎨 Painting and Anime. 
 - 🎸 Ukulele.
 
-### ⌨️ My recent updates
+### ⌨️ Weekly breakdown
 
 <!--START_SECTION:waka-->
 ```text
