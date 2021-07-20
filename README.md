@@ -13,4 +13,7 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 - 🎨 Painting and Anime. 
 - 🎸 Ukulele.
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowgomi&layout=compact&langs_count=4"></img>
+### ⌨️ My recent updates
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
