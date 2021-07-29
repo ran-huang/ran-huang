@@ -4,7 +4,7 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
 ### 📝 What I do at work
 
-- Blog transcreation. My recent post 👉[*Chaos Mesh Remake: One Step Closer toward Chaos as a Service*](https://pingcap.com/blog/chaos-mesh-remake-one-step-closer-toward-chaos-as-a-service).
+- Blog transcreation. My recent post 👉[*Flink on TiDB: Reliable, Convenient Real-Time Data Service*](https://pingcap.com/blog/flink-on-tidb-reliable-convenient-real-time-data-service).
 - Documentation. Proud to be a Committer of [TiDB Docs SIG](https://developer.tidb.io/sig/docs)!
 
 ### 🤠 I also love
