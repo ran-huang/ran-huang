@@ -2,15 +2,15 @@
 
 I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
-### 📝 I'm currently working on
+### 📝 What I do at work
 
 - Blog transcreation. My recent post 👉[*Chaos Mesh Remake: One Step Closer toward Chaos as a Service*](https://pingcap.com/blog/chaos-mesh-remake-one-step-closer-toward-chaos-as-a-service).
-- Content marketing.
+- Documentation. Proud to be a Committer of [TiDB Docs SIG](https://developer.tidb.io/sig/docs)!
 
 ### 🤠 I also love
 
-- Japanese. よろしくお願い！ 
-- 🎨 Painting and Anime. 
+- 💬 Japanese. よろしくお願い致します！ 
+- 🎨 Painting and Animation. 
 - 🎸 Ukulele.
 
 ### ⌨️ Weekly breakdown
