@@ -17,7 +17,7 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
 <!--START_SECTION:waka-->
 ```text
-YAML       8 mins          ████████████▓░░░░░░░░░░░░   51.21 % 
-Markdown   8 mins          ████████████▒░░░░░░░░░░░░   48.79 % 
+Markdown   1 hr 39 mins    ███████████████████████▒░   93.70 % 
+YAML       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 ```
 <!--END_SECTION:waka-->
