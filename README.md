@@ -17,6 +17,8 @@ I am Ran, a technical content developer at [PingCAP](https://pingcap.com/).
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   5 mins          ██████████████████████░░░   88.03 % 
+Markdown     4 hrs 47 mins   ████████████████████████▒   97.12 % 
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
