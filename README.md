@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Ran, a technical content developer at [PingCAP](https://pingcap.com/).
+I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
 ### 📝 What I do at work
 
