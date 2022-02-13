@@ -9,9 +9,9 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
 ### 🤠 I also love
 
-- 💬 Japanese. よろしくお願い致します！ 
+- 💬 Learning Japanese. よろしくお願い致します！ 
 - 🎨 Painting and Animation. 
-- 🎸 Ukulele.
+- 🎵 Ukulele.
 
 ### ⌨️ Weekly breakdown
 
