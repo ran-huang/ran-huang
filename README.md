@@ -18,14 +18,14 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 30 hrs 15 mins
+Total Time: 29 hrs 1 min
 
-Markdown     26 hrs 9 mins   █████████████████████▒░░░   85.75 %
-HTML         1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Python       56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-YAML         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Bash         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Git Config   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Markdown     26 hrs 5 mins   ██████████████████████▒░░   89.88 %
+Python       56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+HTML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+YAML         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Bash         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Git Config   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
