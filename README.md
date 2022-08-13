@@ -13,7 +13,7 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 - 🎨 Painting and Animation.
 - 🎵 Ukulele.
 
-### ⌨️ Monthly breakdown
+### ⌨️ Weekly breakdown
 
 <!--START_SECTION:waka-->
 
