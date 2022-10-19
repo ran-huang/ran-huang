@@ -18,11 +18,11 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 3 hrs 10 mins
+Total Time: 3 hrs 18 mins
 
-Markdown          3 hrs 6 mins    ████████████████████████▒   96.79 %
-Protocol Buffer   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Other             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Markdown          3 hrs 13 mins   ████████████████████████▒   96.92 %
+Protocol Buffer   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Other             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
