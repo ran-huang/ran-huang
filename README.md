@@ -15,12 +15,7 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
 ### ⌨️ Weekly breakdown
 
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 20 hrs 25 mins
-
-Other        8 hrs 2 mins    ██████████░░░░░░░░░░░░░░░   39.41 %
-```
-
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/ran-huang/ran-huang/blob/master/images/stat.svg"
+  alt="wakatime stats"
+/>
