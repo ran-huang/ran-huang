@@ -18,8 +18,6 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 10 December 2022
-
 Total Time: 20 hrs 25 mins
 
 Other        8 hrs 2 mins    ██████████░░░░░░░░░░░░░░░   39.41 %
