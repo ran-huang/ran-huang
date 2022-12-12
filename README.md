@@ -17,5 +17,6 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
 <img
   src="https://github.com/ran-huang/ran-huang/blob/master/images/stat.svg"
-  alt="wakatime stats"
+  alt="wakatime stats" 
+  width="80%" 
 />
