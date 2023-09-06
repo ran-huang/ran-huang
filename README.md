@@ -15,8 +15,5 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
 ### ⌨️ Weekly breakdown
 
-<img
-  src="https://github.com/ran-huang/ran-huang/blob/master/images/stat.svg"
-  alt="wakatime stats" 
-  width="80%" 
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
