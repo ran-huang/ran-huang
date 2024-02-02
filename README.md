@@ -30,6 +30,8 @@ YAML                       51 mins         ██▓░░░░░░░░░�
 <p>
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/ran-huang/contributions?format=svg" height="150" />
+    </a>
+    <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/ran-huang/achievements?format=svg&limit=3" height="150" />
     </a>
 </p>
