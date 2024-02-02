@@ -7,6 +7,19 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 - Maintain [docs for TiDB](https://github.com/pingcap/docs), an open-source distributed SQL database.
 - Coding.
 
+### 🤠 I also love
+
+- 💬 Learning Japanese. よろしくお願い致します！
+- 🎨 Painting.
+- 🎵 Ukulele.
+
+### 🥳 Some stats
+
+<p>
+<img src="https://api.vaunt.dev/v1/github/entities/ran-huang/contributions?format=svg" height="150" />
+<img src="https://api.vaunt.dev/v1/github/entities/ran-huang/achievements?format=svg&limit=3" height="150" />
+</p>
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -18,20 +31,3 @@ YAML                       51 mins         ██▓░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-### 🤠 I also love
-
-- 💬 Learning Japanese. よろしくお願い致します！
-- 🎨 Painting.
-- 🎵 Ukulele.
-
-### 🥳 _Look on my works, ye mighty._
-
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/ran-huang/contributions?format=svg" height="150" />
-    </a>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/ran-huang/achievements?format=svg&limit=3" height="150" />
-    </a>
-</p>
