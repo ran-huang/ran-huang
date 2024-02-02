@@ -4,16 +4,8 @@ I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
 
 ### 📝 What I do at work
 
-- Documentation. I maintain [docs for TiDB](https://github.com/pingcap/docs).
-- Blog transcreation. My recent post 👉[*Believe in the Multiplicative Power of Openness*](https://pingcap.com/blog/believe-in-the-multiplicative-power-of-openness-open-source-community).
-
-### 🤠 I also love
-
-- 💬 Learning Japanese. よろしくお願い致します！
-- 🎨 Painting and Animation.
-- 🎵 Ukulele.
-
-### ⌨️ Weekly breakdown
+- Maintain [docs for TiDB](https://github.com/pingcap/docs), an open-source distributed SQL database.
+- Coding.
 
 <!--START_SECTION:waka-->
 
@@ -26,3 +18,18 @@ YAML                       51 mins         ██▓░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+### 🤠 I also love
+
+- 💬 Learning Japanese. よろしくお願い致します！
+- 🎨 Painting.
+- 🎵 Ukulele.
+
+### 🥳 _Look on my works, ye mighty._
+
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/ran-huang/contributions?format=svg" height="150" />
+        <img src="https://api.vaunt.dev/v1/github/entities/ran-huang/achievements?format=svg&limit=3" height="150" />
+    </a>
+</p>
