@@ -1,24 +1,16 @@
 # Hi there 👋
 
-I am Ran, a technical writer at [PingCAP](https://pingcap.com/).
+I am Ran, a developer, a technical writer, and a language enthusiast.
 
-### 📝 What I do at work
+I speak 🇨🇳Chinese, 🇺🇸English, 🇯🇵Japanese, and a little Latin. Feel free to reach out in any of these languages.
 
-- Maintain [docs for TiDB](https://github.com/pingcap/docs), an open-source distributed SQL database.
-- Coding.
+<!-- [LinkedIn]() | [Twitter]() | [📧]() -->
 
-### 🤠 I also love
+### ☕ Current status
 
-- 💬 Learning Japanese. よろしくお願い致します！
-- 🎨 Painting.
-- 🎵 Ukulele.
+On a gap year.
 
-### 🥳 Some stats
-
-<p>
-<img src="https://api.vaunt.dev/v1/github/entities/ran-huang/contributions?format=svg" height="150" />
-<img src="https://api.vaunt.dev/v1/github/entities/ran-huang/achievements?format=svg&limit=3" height="150" />
-</p>
+### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 
