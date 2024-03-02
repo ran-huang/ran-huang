@@ -15,11 +15,11 @@ On a gap year.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 4 mins
+Total Time: 4 hrs 18 mins
 
-Java   2 hrs 51 mins   ███████████████████████▒░   92.89 %
-XML    11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-YAML   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Java              3 hrs 41 mins   █████████████████████▒░░░   85.87 %
+XML               30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Java Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
