@@ -15,11 +15,11 @@ On a gap year.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 57 mins
+Total Time: 2 hrs 55 mins
 
-Vue.js       1 hr 48 mins    ███████████▒░░░░░░░░░░░░░   45.75 %
-HTML         52 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
-Java         34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
+Vue.js       1 hr 48 mins    ███████████████▓░░░░░░░░░   62.12 %
+JavaScript   27 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+Java         25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
 ```
 
 <!--END_SECTION:waka-->
