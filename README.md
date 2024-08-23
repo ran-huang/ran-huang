@@ -17,7 +17,7 @@ On a gap year.
 ```txt
 Total Time: 0 secs
 
-Java   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
