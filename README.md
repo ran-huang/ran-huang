@@ -15,9 +15,9 @@ On a gap year.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 22 mins
+Total Time: 1 hr 37 mins
 
-Markdown   1 hr 22 mins    █████████████████████████   100.00 %
+Markdown   1 hr 37 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
