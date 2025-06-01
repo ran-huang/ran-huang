@@ -15,9 +15,10 @@ On a gap year.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 22 mins
 
-No activity tracked
+Java   15 mins         █████████████████▒░░░░░░░   68.82 %
+HTML   7 mins          ███████▓░░░░░░░░░░░░░░░░░   31.18 %
 ```
 
 <!--END_SECTION:waka-->
