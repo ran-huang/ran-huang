@@ -8,7 +8,7 @@ I speak 🇨🇳Chinese, 🇺🇸English, 🇯🇵Japanese, and a little Latin. 
 
 ### ☕ Current status
 
-On a gap year.
+First year as a System Engineer
 
 ### 📊 Weekly development breakdown
 
