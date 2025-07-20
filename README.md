@@ -15,10 +15,9 @@ First year as a System Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 20 mins
+Total Time: 0 secs
 
-Markdown   49 mins         ███████████████▒░░░░░░░░░   61.47 %
-Java       30 mins         █████████▓░░░░░░░░░░░░░░░   38.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
