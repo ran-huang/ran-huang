@@ -15,9 +15,9 @@ First year as a System Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 mins
+Total Time: 1 hr 14 mins
 
-Markdown   10 mins         █████████████████████████   100.00 %
+Markdown   1 hr 14 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
