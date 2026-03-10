@@ -15,11 +15,11 @@ First year as a System Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 4 mins
+Total Time: 55 mins
 
-Markdown   33 mins               █████████████░░░░░░░░░░░░   51.91 %
-YAML       18 mins               ███████░░░░░░░░░░░░░░░░░░   28.32 %
-Bash       9 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Markdown   33 mins               ███████████████░░░░░░░░░░   59.70 %
+YAML       18 mins               ████████▒░░░░░░░░░░░░░░░░   32.90 %
+EJS        3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
 ```
 
 <!--END_SECTION:waka-->
