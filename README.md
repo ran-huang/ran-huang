@@ -15,9 +15,11 @@ First year as a System Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 37 mins
 
-No activity tracked
+Python     2 hrs 5 mins          ████████████████████░░░░░   79.74 %
+YAML       23 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+Markdown   5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
