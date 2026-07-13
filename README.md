@@ -15,9 +15,11 @@ First year as a System Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 22 mins
 
-No activity tracked
+VB.NET       51 mins               ███████████████▒░░░░░░░░░   61.32 %
+Markdown     21 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
+Git Config   7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
 ```
 
 <!--END_SECTION:waka-->
